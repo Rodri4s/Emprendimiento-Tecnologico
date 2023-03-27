@@ -1,4 +1,4 @@
-# Emprendimiento-Tecnologico
+# Sistema de guía de Ensamblado
 En base a la problemática presentada sobre los errores que se encuentran en una estación de
 ensamblado que se maneja de forma manual, como equipo se decidió hacer un prototipo que
 ayudara a reducir errores y maximizar la producción de ensambles en un día laboral. Para lograrlo,
